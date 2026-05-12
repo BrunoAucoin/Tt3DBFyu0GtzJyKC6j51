@@ -1,4 +1,4 @@
-$host_debian = "10.184.27.88"
+$host_debian = "192.168.0.192"
 $port = 4444
 
 # Connexion TCP vers le Debian
